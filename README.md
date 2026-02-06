@@ -1,6 +1,6 @@
 <div align= center >
 
-`** Static Website...🍔 `**<B>
+**Static Website...🍔**
 
 Website build by using HTML, CSS, JavaScript.
 
